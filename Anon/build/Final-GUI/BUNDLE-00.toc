@@ -1,0 +1,3 @@
+([('Final-GUI',
+   '/Users/patricksext/PycharmProjects/PythonProject/Anon/dist/Final-GUI',
+   'EXECUTABLE')],)
